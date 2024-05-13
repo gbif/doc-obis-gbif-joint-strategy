@@ -1,4 +1,36 @@
-[[short-id-for-section]]
-== Section/chapter title 
+== Preamble
 
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person.
+https://www.gbif.org[GBIF^] and https://obis.org[OBIS^] signed a five-year agreement in 2020 to promote further cooperation across a wide range of activities and services between the two global biodiversity data networks.
+
+The https://assets.ctfassets.net/uo17ejk9rkwj/1ZgCl8DIpc7GicBZgBQ23n/64c4c1cb2cc75280a0f82cae16ae808b/OBIS-GBIF-LOA-FINAL.pdf[Letter of Agreement^] targets both technical collaboration covering data standards, publishing and processing; and institutional collaboration to ensure closer ties between OBIS and GBIF nodes, shared training opportunities and aligned documentation.
+
+OBIS - the Ocean Biodiversity Information System, was founded in May 2000 under the Census of Marine Life, as the Ocean Biogeographic Information System. It is now a programme component of the https://www.iode.org/[International Oceanographic Data and Information Exchange^] (IODE) programme of the http://ioc-unesco.org/[Intergovernmental Oceanographic Commission^] (IOC) of https://en.unesco.org/[UNESCO^]. It aims to be the most comprehensive data and information gateway on the diversity, distribution and abundance of marine life to support its Member States in achieving a healthy and resilient ocean ecosystem.
+
+GBIF—the Global Biodiversity Information Facility—was formally established in September 2001 as a voluntary collaboration between governments, with the aim of providing anyone, anywhere with free and open access to data about all types of life on Earth. The mission of GBIF, as agreed by its Governing Board within the 2023-2027 Strategic Framework, is ‘to mobilize the data, skills and technologies needed to make comprehensive biodiversity information freely available for science and decisions addressing biodiversity loss and sustainable development’. 
+
+This strategy and plan builds on the letter of agreement to set out a set of shared organizational objectives and actions to ensure that marine biodiversity data is freely and openly available through both GBIF and OBIS for the benefit of science and decision making.
+
+== Objectives
+
+GBIF and OBIS will collaborate and seek efficiencies where possible, respecting the vision, mission and values of each, supporting the mandates and nurturing the strengths and expertise of their respective networks and communities of practice. This collaboration aims to achieve the following objectives by 2030 and set the stage for requirements post-2030:
+
+*	The best available marine biodiversity data, respecting FAIR and CARE principles, is available to meet the needs of all relevant users, supporting the goals and targets of the UN Ocean Decade, including the OBIS 2030 UN decade project, the Kunming-Montreal Global Biodiversity Framework, the 2030 Agenda for Sustainable Development, the future UN High Seas Treaty and other international policy objectives
+*	Marine biodiversity data is securely archived and our respective networks persist and can operate sustainably into the future
+
+== Areas of Collaboration 
+
+GBIF and OBIS agree to collaborate in two focus areas:
+
+*	*Technical Cooperation*. GBIF and OBIS will explore opportunities for technical cooperation, including the development of interoperability standards, data exchange protocols, and tools to facilitate the exchange, integration, visualization, and application and use of biodiversity data.
+*	*Community and Capacity*. GBIF and OBIS will collaborate on capacity-building activities and resources to enhance the skills and expertise of data providers and users for data integration, biodiversity informatics and marine biodiversity research. 
+
+== Governance
+
+OBIS and GBIF are to extend invitations to each other´s Steering Group and Governing Board meetings where they will be asked to report on progress on the actions outlined within this strategy and action plan. Implementation of the action plan will be monitored by an implementation committee comprised of representatives of OBIS and GBIF Secretariats and nodes that reflect activities across technical cooperation and community and capacity. Both the GBIF Nodes Steering Group and OBIS Nodes Steering Group should be regularly updated on progress towards the objectives of this strategy and action plan by the respective Secretariat focal point:
+
+* GBIF: mailto:arodrigues@gbif.org[Andrew Rodrigues^], Data Partnerships Officer
+*	OBIS: mailto:w.appeltans@unesco.org[Ward Appeltans^], Programme Manager 
+
+== Status of this strategy and action plan 
+
+The current letter of agreement between GBIF and OBIS remains in effect until 31 August 2025 and this strategy and action plan is aligned with its ambitions. Upon the Letter of Agreement´s expiration, this document will  form the basis of a new Letter of Agreement to remain in force until 2030. 
