@@ -7,17 +7,9 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. 
+OBIS & GBIF (2024) Joint Strategy for Marine Biodiversity Data. GBIF Secretariat: Copenhagen. 
 // Uncomment once a DOI is assigned
 //https://doi.org/10.EXAMPLE/EXAMPLE
-
-=== Authors
-
-Un Author, Due Autore & https://www.orcid.org/#[Troisième Auteur]
-
-=== Contributors
-
-James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
 
 === Licence
 
@@ -31,14 +23,4 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Document control
 
-Third edition, April 2020
-
-// include reference to provenance if possible/relevant
-https://doi.org/10.EXAMPLE/2ND-EXAMPLE[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
-
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
-
-=== Cover image
-
-// Caption. Credit, source, licence.
-Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+May 2024
