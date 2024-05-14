@@ -1,4 +1,4 @@
-= Joint Strategy for Marine Biodiversity Data
+= OBIS-GBIF Joint Strategy for Marine Biodiversity Data
 OBIS; GBIF
 :toc: left
 :toclevels: 2
