@@ -7,9 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-OBIS & GBIF (2024) Joint Strategy for Marine Biodiversity Data. GBIF Secretariat: Copenhagen. 
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+OBIS & GBIF (2024) Joint Strategy for Marine Biodiversity Data. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-kcqs-5h52
 
 === Licence
 
@@ -17,9 +15,7 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Persistent URI
 
-#TODO: Assign a DOI before publication#
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+https://doi.org/10.35035/doc-kcqs-5h52
 
 === Document control
 
