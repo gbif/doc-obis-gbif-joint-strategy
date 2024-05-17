@@ -8,7 +8,7 @@ OBIS - the Ocean Biodiversity Information System, was founded in May 2000 under 
 
 GBIF—the Global Biodiversity Information Facility—was formally established in September 2001 as a voluntary collaboration between governments, with the aim of providing anyone, anywhere with free and open access to data about all types of life on Earth. The mission of GBIF, as agreed by its Governing Board within the 2023-2027 Strategic Framework, is ‘to mobilize the data, skills and technologies needed to make comprehensive biodiversity information freely available for science and decisions addressing biodiversity loss and sustainable development’. 
 
-This strategy and https://docs.gbif-uat.org/obis-gbif-action-plan-2024/en[rolling annual action plan^] builds on the letter of agreement to set out a set of shared organizational objectives and actions to ensure that marine biodiversity data is freely and openly available through both GBIF and OBIS for the benefit of science and decision-making.
+This strategy and https://doi.org/10.35035/doc-e52v-5875[rolling annual action plan^] builds on the letter of agreement to set out a set of shared organizational objectives and actions to ensure that marine biodiversity data is freely and openly available through both GBIF and OBIS for the benefit of science and decision-making.
 
 == Objectives
 
@@ -33,4 +33,4 @@ OBIS and GBIF are to extend invitations to each other´s Steering Group and Gove
 
 == Status of this strategy and action plan 
 
-The current letter of agreement between GBIF and OBIS remains in effect until 31 August 2025 and this strategy and https://docs.gbif-uat.org/obis-gbif-action-plan-2024/en[rolling annual action plan^] is aligned with its ambitions. Upon the Letter of Agreement´s expiration, this document will form the basis of a new Letter of Agreement to remain in force until 2030. 
+The current letter of agreement between GBIF and OBIS remains in effect until 31 August 2025 and this strategy and https://doi.org/10.35035/doc-e52v-5875[rolling annual action plan^] is aligned with its ambitions. Upon the Letter of Agreement´s expiration, this document will form the basis of a new Letter of Agreement to remain in force until 2030. 
