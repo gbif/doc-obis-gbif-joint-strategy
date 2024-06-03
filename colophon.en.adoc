@@ -1,6 +1,6 @@
 // add cover image to img directory and update filename below
 ifdef::backend-html5[]
-image::img/web/bg-obis-gbif-1.png[]
+image::img/web/bg-obis-gbif-2.png[]
 endif::backend-html5[]
 
 == Colophon
